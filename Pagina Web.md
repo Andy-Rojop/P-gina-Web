@@ -24,7 +24,7 @@ https://andy-rojop.github.io/P-gina-Web/
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/excel-powerbi-web.git
+git clone https://github.com/Andy-Rojop/P-gina-Web
 
 2. Abre tu editor Visual Studio Code o Cursor, y abre la carpeta.
 3. Ejecutalo con LIVE SERVER.
