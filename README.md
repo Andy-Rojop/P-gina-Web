@@ -18,7 +18,7 @@ Este proyecto es una página web sencilla creada con **HTML**, **CSS** y **JavaS
 
 ## 🖼 Vista previa
 
-![Vista previa](imagenes/excel.png)
+https://andy-rojop.github.io/P-gina-Web/
 
 ## 🚀 Cómo ejecutar
 
